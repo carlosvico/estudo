@@ -1,2 +1,2 @@
 # Estudo
-Estudo efeiros css 
+Estudo efeitos css 
