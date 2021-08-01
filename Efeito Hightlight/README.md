@@ -1,3 +1,3 @@
 # Estudo
 ## Estudo efeitos css 
-- Estudo da possibilidades de criação no uso de css
+- Estudo da criação de Hightlight com uso de css puro
